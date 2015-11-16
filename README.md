@@ -18,6 +18,6 @@ Je pratique l'informatique sous Ubuntu depuis plusieurs années mais je me consi
 * Baccalauréat Littéraire
 
 ## Pourquoi suis-je ici ? 
-Je cherche à acquérir des compétences dans un domaine porteur, tranaversal et qui me permettrais de trouver un emploi en milieu rural.   
+Je cherche à acquérir des compétences dans un domaine porteur, transversal et qui me permettrais de trouver un emploi en milieu rural.   
 Je considère aussi que la présence incontournable de l'imformatique dans notre vie nous oblige à nous former pour ne pas être de simples consommateurs.        
 
